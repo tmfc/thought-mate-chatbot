@@ -31,4 +31,5 @@ plugins/banwords/lib/__pycache__
 !plugins/keyword
 !plugins/linkai
 !plugins/intent
+!plugins/diet
 client_config.json
